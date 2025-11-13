@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Horarios Universitarios",
+  "description": "Una aplicación inteligente para generar horarios de clases de licenciatura basados en la disponibilidad de docentes, materias y grupos, utilizando la IA de Gemini para la optimización.",
+  "requestFramePermissions": []
+}
